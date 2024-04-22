@@ -34,7 +34,7 @@ Welcome to my HR Analytics project repository! This project leverages Power BI, 
 
 - **Clone the Repository: Clone this repository to your local machine using Git:**
 - **Copy code**
-- ***git clone https://github.com/ashvakg/HR-Analytics-Using-Power-BI.git****
+- ***git clone https://github.com/Ashvakg/HR-Analytics-Using-Power-BI.git****
 - Explore the Data: Explore the datasets provided in the /data. Familiarize yourself with the structure and content of the data.
 - Install Power BI Desktop: If you haven't already, download and install Power BI Desktop from the official website: Power BI Desktop.
 - Open Power BI Project: Open Power BI Desktop and navigate to the /reports directory. Open the provided Power BI project file (*.pbix) to explore the pre-built dashboards and visualizations.
