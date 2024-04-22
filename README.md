@@ -43,8 +43,5 @@ Welcome to my HR Analytics project repository! This project leverages Power BI, 
 **Contributors**
 Codebasics.io
 
-**License**
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Feedback and Contributions
 I welcome feedback, suggestions, and contributions from the community. If you have any ideas for improvements or would like to contribute to the project, please feel free to open an issue or submit a pull request.
