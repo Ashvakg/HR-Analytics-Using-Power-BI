@@ -12,31 +12,31 @@ Welcome to my HR Analytics project repository! This project leverages Power BI, 
 **Questions you can answer:**
 - Has remote work become more or less prevalent compared to office work across the 4 locations in last 3 months?
 - Do employees exhibit any consistent patterns in their work location preferences throughout the week (in this dashboard, employees work from office more on Mondays)?
-3.) Are there any variations in these daily work location trends across different locations?
-4.) Are there specific locations with a higher concentration of remote workers or higher sick leave rates?
-5.) (With futher data, external considerations & analysis) Can we identify any locations where remote work seems to be associated with higher or lower sick leave rates?
+- Are there any variations in these daily work location trends across different locations?
+- Are there specific locations with a higher concentration of remote workers or higher sick leave rates?
+- (With futher data, external considerations & analysis) Can we identify any locations where remote work seems to be associated with higher or lower sick leave rates?
 
 **Technologies Used**
-1.) Power BI: A powerful business analytics tool for creating interactive dashboards and visualizations.
-2.) DAX (Data Analysis Expressions): A formula language for Power BI and Excel Power Pivot, used for creating custom calculations and measures.
-3.) Data Modeling: Employ data modeling techniques to structure data for efficient analysis.
-4.) Data Cleaning: Employ various data cleaning techniques to ensure data accuracy and reliability.
-5.) Dashboarding Analytics: Utilize Power BI's dashboarding capabilities to create insightful visualizations.
+- Power BI: A powerful business analytics tool for creating interactive dashboards and visualizations.
+- DAX (Data Analysis Expressions): A formula language for Power BI and Excel Power Pivot, used for creating custom calculations and measures.
+- Data Modeling: Employ data modeling techniques to structure data for efficient analysis.
+- Data Cleaning: Employ various data cleaning techniques to ensure data accuracy and reliability.
+- Dashboarding Analytics: Utilize Power BI's dashboarding capabilities to create insightful visualizations.
 
 **Repository Structure**
-1.) /data: Contains sample HR datasets used in the project.
-2.) /Screenshot: This directory contains screenshot of the dashboard.
-3.) /reports: Contains exported Power BI reports.
+- /data: Contains sample HR datasets used in the project.
+- /Screenshot: This directory contains screenshot of the dashboard.
+- /reports: Contains exported Power BI reports.
 
 **To get started with this project, follow these steps:**
 
-1.) **Clone the Repository: Clone this repository to your local machine using Git:**
-2.) **Copy code**
-3.) **git clone https://github.com/yourusername/hr-analytics-powerbi.git**
-4.) Explore the Data: Explore the datasets provided in the /data. Familiarize yourself with the structure and content of the data.
-5.) Install Power BI Desktop: If you haven't already, download and install Power BI Desktop from the official website: Power BI Desktop.
-6.) Open Power BI Project: Open Power BI Desktop and navigate to the /reports directory. Open the provided Power BI project file (*.pbix) to explore the pre-built dashboards and visualizations.
-7.) Customize and Analyze: Feel free to customize the dashboards and visualizations according to your requirements. Experiment with DAX calculations and data modeling techniques to derive deeper insights from the data.
+- **Clone the Repository: Clone this repository to your local machine using Git:**
+- **Copy code**
+- ***git clone https://github.com/yourusername/hr-analytics-powerbi.git****
+- Explore the Data: Explore the datasets provided in the /data. Familiarize yourself with the structure and content of the data.
+- Install Power BI Desktop: If you haven't already, download and install Power BI Desktop from the official website: Power BI Desktop.
+- Open Power BI Project: Open Power BI Desktop and navigate to the /reports directory. Open the provided Power BI project file (*.pbix) to explore the pre-built dashboards and visualizations.
+- Customize and Analyze: Feel free to customize the dashboards and visualizations according to your requirements. Experiment with DAX calculations and data modeling techniques to derive deeper insights from the data.
 
 **Contributors**
 Codebasics.io
