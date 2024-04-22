@@ -1,6 +1,6 @@
 # HR-Analytics-Using-Power-BI
 
-**Note: To access this project .pbix file is only compatible with desktop**
+**Note: To access this project .pbix file is only compatible with  Power BI desktop**
 
 **Overview:**
 Welcome to my HR Analytics project repository! This project leverages Power BI, DAX, data modeling, data cleaning, understanding requirements from the stakeholder (HR Team) to provide valuable insights into HR data through a dashboard. Whether you are an HR professional, data analyst, or someone interested in analytics, this project offers a comprehensive exploration of human resources data.
