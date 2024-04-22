@@ -1,14 +1,20 @@
 # HR-Analytics-Using-Power-BI
 
 **Overview:**
-Welcome to my HR Analytics project repository! This project leverages Power BI, DAX, data modeling, data cleaning, understanding requirements from the stakeholderher (HR Team) to provide valuable insights into HR data through dashboard. Whether you're an HR professional, data analyst, or someone interested in analytics, this project offers a comprehensive exploration of human resources data.
+Welcome to my HR Analytics project repository! This project leverages Power BI, DAX, data modeling, data cleaning, understanding requirements from the stakeholder (HR Team) to provide valuable insights into HR data through a dashboard. Whether you are an HR professional, data analyst, or someone interested in analytics, this project offers a comprehensive exploration of human resources data.
 
 
 **Project Goals:**
 1.) Insight Generation: Utilize HR data to generate actionable insights for decision-making processes.
 2.) Data Visualization: Create interactive and visually appealing dashboards using Power BI.
 3.) Data Cleaning and Preparation: Ensure data accuracy and reliability through thorough cleaning and preparation processes and leveraging DAX.
-4.) Advanced Analytics: Implemented Trend Analysis on key metrices.
+
+**Questions you can answer:**
+1.) Has remote work become more or less prevalent compared to office work across the 4 locations in last 3 months?
+2.) Do employees exhibit any consistent patterns in their work location preferences throughout the week (in this dashboard, employees work from office more on Mondays)?
+3.) Are there any variations in these daily work location trends across different locations?
+4.) Are there specific locations with a higher concentration of remote workers or higher sick leave rates?
+5.) (With futher data, external considerations & analysis) Can we identify any locations where remote work seems to be associated with higher or lower sick leave rates?
 
 **Technologies Used**
 1.) Power BI: A powerful business analytics tool for creating interactive dashboards and visualizations.
