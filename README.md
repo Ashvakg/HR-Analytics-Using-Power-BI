@@ -1,5 +1,7 @@
 # HR-Analytics-Using-Power-BI
 
+**Note: To acess this project .pbix file is only compatible with desktop not on powerbi mobile**
+
 **Overview:**
 Welcome to my HR Analytics project repository! This project leverages Power BI, DAX, data modeling, data cleaning, understanding requirements from the stakeholder (HR Team) to provide valuable insights into HR data through a dashboard. Whether you are an HR professional, data analyst, or someone interested in analytics, this project offers a comprehensive exploration of human resources data.
 
@@ -32,7 +34,7 @@ Welcome to my HR Analytics project repository! This project leverages Power BI, 
 
 - **Clone the Repository: Clone this repository to your local machine using Git:**
 - **Copy code**
-- ***git clone https://github.com/yourusername/hr-analytics-powerbi.git****
+- ***git clone https://github.com/ashvakg/HR-Analytics-Using-Power-BI.git****
 - Explore the Data: Explore the datasets provided in the /data. Familiarize yourself with the structure and content of the data.
 - Install Power BI Desktop: If you haven't already, download and install Power BI Desktop from the official website: Power BI Desktop.
 - Open Power BI Project: Open Power BI Desktop and navigate to the /reports directory. Open the provided Power BI project file (*.pbix) to explore the pre-built dashboards and visualizations.
