@@ -8,8 +8,8 @@ Welcome to my HR Analytics project repository! This project leverages Power BI, 
 
 **Project Goals:**
 - Insight Generation: Utilize HR data to generate actionable insights for decision-making processes.
--  Data Visualization: Create interactive and visually appealing dashboards using Power BI.
--   Data Cleaning and Preparation: Ensure data accuracy and reliability through thorough cleaning and preparation processes and leveraging DAX.
+- Data Visualization: Create interactive and visually appealing dashboards using Power BI.
+- Data Cleaning and Preparation: Ensure data accuracy and reliability through thorough cleaning and preparation processes and leveraging DAX.
 
 **Questions you can answer:**
 - Has remote work become more or less prevalent compared to office work across the 4 locations in last 3 months?
@@ -17,6 +17,7 @@ Welcome to my HR Analytics project repository! This project leverages Power BI, 
 - Are there any variations in these daily work location trends across different locations?
 - Are there specific locations with a higher concentration of remote workers or higher sick leave rates?
 - (With futher data, external considerations & analysis) Can we identify any locations where remote work seems to be associated with higher or lower sick leave rates?
+![image](https://github.com/Ashvakg/HR-Analytics-Using-Power-BI/assets/83398283/a0680e8f-c112-41ce-bf57-15bcfbbf45e9)
 
 **Technologies Used**
 - Power BI: A powerful business analytics tool for creating interactive dashboards and visualizations.
