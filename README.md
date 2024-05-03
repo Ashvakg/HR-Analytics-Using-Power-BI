@@ -1,4 +1,4 @@
-# HR-Analytics-Using-Power-BI
+# Work Location Trends-Using-Power-BI
 
 **Note: To access this project .pbix file is only compatible with  Power BI desktop**
 
